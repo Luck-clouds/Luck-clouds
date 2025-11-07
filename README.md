@@ -6,7 +6,15 @@
 
 ## 🚀 关于我
 
-**Luck clouds**
+<table align="center">
+<tr>
+  <td>
+      <p>你好,我是Luck-clouds cv快捷键的最佳使用者<p/>
+      <p>正在努力的让每一段代码变得更加优秀！<p/>
+  </td>
+</tr>
+
+</table>
 
 ## 🛠️ 技术栈
 
@@ -37,6 +45,8 @@
 ![IDEA](https://img.shields.io/badge/-IDEA-F05032?style=flat-square&logo=IDEA&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 
 
 
