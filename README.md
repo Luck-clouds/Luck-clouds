@@ -21,6 +21,7 @@
 ### 编程语言
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![HarmonyOS](https://img.shields.io/badge/-HarmonyOS-E34F26?style=flat-square&logo=HarmonyOS&logoColor=white)
 
 
 ### 前端技术
@@ -29,6 +30,7 @@
 ![Uniapp](https://img.shields.io/badge/-Uniapp-4FC08D?style=flat-square&logo=Uniapp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HarmonyOS](https://img.shields.io/badge/-HarmonyOS-E34F26?style=flat-square&logo=HarmonyOS&logoColor=white)
 
 
 ### 后端技术
