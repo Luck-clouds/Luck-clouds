@@ -51,6 +51,24 @@
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 15 April 2025 - To: 15 April 2026
+
+Total Time: 525 hrs 18 mins
+
+Vue.js                 253 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.34 %
+Markdown               69 hrs 38 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
+JavaScript             69 hrs 21 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+HTML                   24 hrs 51 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+JSON                   24 hrs 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Dart                   18 hrs 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Python                 12 hrs 38 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Text                   8 hrs 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Java                   7 hrs 51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Other                  7 hrs 22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+```
+
 <!--END_SECTION:waka-->
 
 <picture>
