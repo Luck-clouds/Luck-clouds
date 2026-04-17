@@ -21,17 +21,17 @@
 ### 编程语言
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HarmonyOS](https://img.shields.io/badge/-HarmonyOS-E34F26?style=flat-square&logo=HarmonyOS&logoColor=white)
-
 
 ### 前端技术
-
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Uniapp](https://img.shields.io/badge/-Uniapp-4FC08D?style=flat-square&logo=Uniapp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HarmonyOS](https://img.shields.io/badge/-HarmonyOS-E34F26?style=flat-square&logo=HarmonyOS&logoColor=white)
 
+### 移动开发技术
+![UniApp](https://img.shields.io/badge/-UniApp-4FC08D?style=flat-square&logo=uniapp&logoColor=white)
+![HarmonyOS](https://img.shields.io/badge/-HarmonyOS-E34F26?style=flat-square&logo=HarmonyOS&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### 后端技术
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -44,11 +44,11 @@
 
 ### 开发工具
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![IDEA](https://img.shields.io/badge/-IDEA-F05032?style=flat-square&logo=IDEA&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 
 <!--START_SECTION:waka-->
 
