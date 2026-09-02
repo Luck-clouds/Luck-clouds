@@ -54,20 +54,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 31 August 2026
+From: 01 September 2025 - To: 01 September 2026
 
-Total Time: 1,010 hrs 24 mins
+Total Time: 1,013 hrs 43 mins
 
-Vue.js                 217 hrs 17 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
-Markdown               198 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 %
-Vue                    144 hrs 14 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-JavaScript             130 hrs 47 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
-Java                   43 hrs 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-HTML                   35 hrs 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-JSON                   35 hrs 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Other                  33 hrs 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-Dart                   28 hrs 15 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Kotlin                 24 hrs 52 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Vue.js                 217 hrs 17 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+Markdown               199 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+Vue                    144 hrs 30 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+JavaScript             132 hrs 24 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+Java                   43 hrs 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+HTML                   35 hrs 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+JSON                   35 hrs 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Other                  34 hrs 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Dart                   28 hrs 15 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Kotlin                 24 hrs 52 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
